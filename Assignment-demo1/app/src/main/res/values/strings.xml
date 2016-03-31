@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment-demo1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_toeic">ToeicActivity</string>
+    <string name="title_activity_detestacti">Detestacti</string>
+    <string name="title_activity_luyen_ky_nang">LuyenKyNangAc</string>
+    <string name="title_activity_tratuvung">tratuvung</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_luyendoc">LuyendocActi</string>
+    <string name="title_activity_luyen_nghe">LuyenNghe</string>
+</resources>
